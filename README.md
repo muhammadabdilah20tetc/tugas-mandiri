@@ -1,0 +1,2 @@
+# tugas-mandiri
+analisis data
